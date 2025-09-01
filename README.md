@@ -11,8 +11,8 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 ## 🔗 Links do projeto
 
 - **Documentação**: (esse documento)
-- **Backend**: (https://github.com/viniciuushilarioo/STREAMIX---BACKEND)(#) | [Publicação](#)
-- **Frontend**: (https://github.com/viniciuushilarioo/STREAMIX---FRONTEND)(#) | [Publicação](#)
+- **Backend**: (https://github.com/viniciuushilarioo/STREAMIX---BACKEND)[#] | [Publicação](#)
+- **Frontend**: (https://github.com/viniciuushilarioo/STREAMIX---FRONTEND)[#] | [Publicação](#)
 
 ## 📌 1. Descrição do Projeto
 
