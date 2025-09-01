@@ -11,28 +11,26 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 ## 🔗 Links do projeto
 
 - **Documentação**: (esse documento)
-- **Backend**: [](#) | [Publicação](#)
-- **Frontend**: [Repositório](#) | [Publicação](#)
+- **Backend**: [https://github.com/viniciuushilarioo/STREAMIX---BACKEND](#) | [Publicação](#)
+- **Frontend**: [https://github.com/viniciuushilarioo/STREAMIX---FRONTEND](#) | [Publicação](#)
 
 ## 📌 1. Descrição do Projeto
 
-A plataforma consiste em um ambiente digital voltado exclusivamente para o jornalismo, destinado a servir como espaço de prática, aprendizado e interação entre profissionais iniciantes e demais interessados na área. O objetivo é oferecer um canal no qual jornalistas em início de carreira possam publicar suas reportagens, artigos e conteúdos autorais, recebendo avaliações construtivas, sugestões e orientações de outros usuários, incluindo profissionais mais experientes.
+**STREAMIX** é a plataforma de streaming que reúne em um só lugar todos os filmes e séries que você ama. Com um catálogo completo e variado, a STREAMIX elimina a fragmentação do mercado e oferece praticidade ao assinante: em vez de pagar por várias assinaturas diferentes, você encontra tudo em uma única plataforma, com um preço justo e acessível.
+
+Nosso objetivo é simplificar a experiência do entretenimento digital, unindo lançamentos, clássicos, produções exclusivas e conteúdos de diferentes estúdios em um só espaço. Com a STREAMIX, o usuário ganha tempo, economia e diversidade, sem abrir mão da qualidade.
 
 ## 🔍 2. Situação Problema (Cenário)
 
-No cenário atual, grande parte dos profissionais recém-formados ou em formação não encontra espaços acessíveis para publicar reportagens completas que não sejam blogs pessoais ou redes sociais de uso geral, onde o conteúdo jornalístico costuma se misturar com entretenimento e opiniões pessoais, diluindo seu alcance e credibilidade. Além disso, veículos de comunicação tradicionais, devido à alta competitividade e à busca por nomes consolidados, raramente oferecem espaço para novatos testarem formatos, aprofundarem pautas ou experimentarem estilos de escrita sem a pressão imediata por audiência.
-
-Um exemplo prático dessa barreira pode ser observado em jovens repórteres que, após produzirem matérias investigativas durante cursos de jornalismo, acabam armazenando o trabalho apenas como arquivo pessoal, sem que o conteúdo seja publicado ou debatido. Outro caso é o de jornalistas independentes que tentam divulgar suas reportagens nas redes sociais abertas — como Twitter, Instagram ou Facebook — mas não recebem retorno construtivo, apenas curtidas ou críticas superficiais, o que não contribui para o aprimoramento técnico.
-
-Essa ausência de um ambiente seguro e direcionado ao jornalismo gera dois problemas principais: a estagnação do desenvolvimento profissional dos iniciantes e a perda de conteúdos relevantes que poderiam contribuir para o debate público. A plataforma, portanto, surge como solução para centralizar, valorizar e aprimorar a produção jornalística emergente, conectando novatos, especialistas e leitores interessados em informação de qualidade.
+Nos últimos anos, o mercado de streaming cresceu de forma acelerada, mas trouxe consigo um grande desafio para o público: ***a fragmentação do conteúdo***. Séries e filmes estão espalhados entre diversas plataformas, como Netflix, Disney+, Prime Video, HBO Max e outras, o que obriga os usuários a assinarem múltiplos serviços para ter acesso ao que desejam assistir. Esse cenário gera altos custos mensais, comparáveis ou até superiores aos antigos pacotes de TV por assinatura, além de dificultar a experiência do usuário, que precisa alternar entre diferentes aplicativos para encontrar seus títulos favoritos. Como consequência, muitos consumidores acabam recorrendo à pirataria, cancelando assinaturas ou se frustrando diante da dificuldade de acesso simples e acessível ao entretenimento digital.
 
 ## 💡 3. Proposta
 
-O funcionamento se daria de forma simples: qualquer jornalista em início de carreira poderia criar um perfil, publicar suas matérias e receber feedback detalhado da comunidade — que incluiria tanto outros novatos quanto jornalistas experientes, editores e professores de comunicação. Esse retorno não se limitaria a comentários genéricos; haveria ferramentas específicas para avaliação de aspectos como clareza do texto, apuração, estrutura narrativa, relevância da pauta e ética jornalística.
+A **STREAMIX** surge como solução para esse problema. Nossa plataforma reúne em um só lugar todos os filmes e séries que você ama, oferecendo praticidade, economia e diversidade de conteúdo em uma única assinatura. Com um preço mais acessível, a STREAMIX elimina a necessidade de pagar por vários serviços diferentes e simplifica a vida do assinante, reunindo lançamentos, clássicos, produções exclusivas e títulos de diferentes estúdios. O objetivo é devolver ao público aquilo que o streaming prometeu no início: facilidade, qualidade e acesso democrático ao entretenimento.
 
   ## 4. Requisitos Funcionais
 
-  [https://docs.google.com/document/d/1kvQxn0QMCyY3zJglXIqT8pbuE4-fXjSHYM7RaQr6AUI/edit?tab=t.0]
+  []
 
   ## 5. Modelo Relacionamento-Entidade
 
