@@ -34,5 +34,8 @@ A **STREAMIX** surge como solução para esse problema. Nossa plataforma reúne 
 
   ## 5. Modelo Relacionamento-Entidade
 
+  (https://drive.google.com/file/d/1vE5KEdr21Vq5kJxFYbj4vL_Qqdd1Y0jt/view?usp=sharing)
+  
   ## 6. Casos de uso
-
+  
+(https://drive.google.com/file/d/1B3UlWyy5uoTXSF-Dg3n-hixxGvjPydOh/view?usp=sharing)
