@@ -30,7 +30,7 @@ A **STREAMIX** surge como solução para esse problema. Nossa plataforma reúne 
 
   ## 4. Requisitos Funcionais
 
-  []
+  [https://docs.google.com/document/d/1M_whqYtipReq7igzcYAMKeVOX1UreJ7HlD_PO2paFLk/edit?usp=sharing]
 
   ## 5. Modelo Relacionamento-Entidade
 
